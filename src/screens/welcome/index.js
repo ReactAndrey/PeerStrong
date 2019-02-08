@@ -1,0 +1,1 @@
+export { WelcomeMain } from './WelcomeMain';

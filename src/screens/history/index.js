@@ -1,0 +1,1 @@
+export { DHistoryMainView } from './DHistoryMainView';

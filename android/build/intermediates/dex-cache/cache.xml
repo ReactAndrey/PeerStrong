@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/patol/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_1a56ca3af148adfe2d7c9138240779197cdb075d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_e7948dfd8b9b2169d11538a0e9173b96fdaf51d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patol/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_e010cf4a81807a38266890c10db3b68f1466ae69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patol/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.4.1_a52b77c31450f929e861c0da70c93483a535c5dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patol/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_1aab5fa0b5a147825c7cf93c725e1f70dd2d2d93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patol/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_36881357ef4f7e9a68d0c09b6e3e6fe97d3654f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_035e592b99b4cb2134825ccf0b01c7acb80d12ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patol/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_90b5cd23347f7f20896a332d02984fe8eca17fef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_a4b1ce7f2347100eb17b2daac6de2bd437405b99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="47fd8b9453863f74583f503e500f0a596d165299">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c16ba6aaddee08869a28a103ce5eece78c76a62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_2384ae1df2f091a3d4e89fcf1eb47b32b0e1a01b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d1ff94a9283cc1c2433c1793bd26d8a3fef3cb19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.11.0_0a5db7cc4cb5f065ada517f41c93460593ef8c56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.11.0_05d024900936d2732db0a732c0e4d9df3ff07769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_8fd76295e437fcb37b2f77a3f9654aceaddfd3f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.11.0_f26880b7fdc9949368b3c7235ec4c267b5f73de9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patol/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_68402674e5ca3e12d5e631d206522061c8adb3d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_dee75af9e8b11292d81866c0616fa7afbf0ba8f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.react-react-native-0.42.0_682b84f368aaaea87e1f46a861858b4b8814a6e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.11.0_f07c014bfb32a7a3dda6f8d706992e686c5ba790/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Tools/Development/Android/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_5603f488f45d2bcfdaa8cb4a816e49317a6f8e3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patol/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_892089b9f4c3a8fe9fc2c04f22940194737ec355/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b4a16f8fb72f3a56b19bf1bfffcd42cc32fdaf8">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b85b472cf7011f767c93f714b47d3a822bd58253/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.11.0_6c3b7f64ddb0e1d2bc31b774397b711f831b801e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patol/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_ac33d18e31010ec19424fcd58bd4e8efada18173/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.soloader-soloader-0.1.0_6fa5961ff148650769982ad49a7e7eee3ffcaace/classes.dex" />
+    </item>
+
+</items>

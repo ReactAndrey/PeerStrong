@@ -1,0 +1,7 @@
+#Sat Mar 18 15:27:29 EET 2017
+base.0=/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b85b472cf7011f767c93f714b47d3a822bd58253
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c16ba6aaddee08869a28a103ce5eece78c76a62/classes.dex
+base.1=/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c16ba6aaddee08869a28a103ce5eece78c76a62
+file.0=/Volumes/MACDATA/Work/Projects/2_Progress/DTest/DTest/DTest/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b85b472cf7011f767c93f714b47d3a822bd58253/classes.dex

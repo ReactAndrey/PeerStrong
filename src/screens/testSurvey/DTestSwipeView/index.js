@@ -1,0 +1,1 @@
+export { DTestSwipeView } from './DTestSwipeView';
